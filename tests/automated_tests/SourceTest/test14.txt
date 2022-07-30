@@ -1,0 +1,9 @@
+push int8(2)
+push int8(70)
+add
+print
+pop
+push int8(1)
+push int8(70)
+add
+print

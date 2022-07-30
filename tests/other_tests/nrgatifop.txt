@@ -1,0 +1,17 @@
+push int8(42)
+push int8(-2)
+add
+push int8(42)
+push int8(-2)
+sub
+push int8(42)
+push int8(-2)
+mul
+push int8(42)
+push int8(-2)
+div
+push int8(42)
+push int8(-2)
+mod
+exit
+;;

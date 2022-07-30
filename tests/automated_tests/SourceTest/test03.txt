@@ -1,0 +1,4 @@
+push int8(-129)
+print
+dump
+exit

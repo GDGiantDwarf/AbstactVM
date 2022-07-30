@@ -1,0 +1,11 @@
+;---------------
+;- example.avm -
+;---------------
+push int32(3)
+;lol u fail n42;
+push int32(42) ; lol u fail number2
+add
+; lol you fail
+exit
+;lol u fail n3;
+;;

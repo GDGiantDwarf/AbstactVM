@@ -1,0 +1,22 @@
+push int8(104)
+push int8(99)
+push int8(101)
+push int8(116)
+push int8(105)
+push int8(112)
+push int8(69)
+print
+pop
+print
+pop
+print
+pop
+print
+pop
+print
+pop
+print
+pop
+print
+pop
+exit

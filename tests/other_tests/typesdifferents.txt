@@ -1,0 +1,32 @@
+push int8(42)
+push int16(3)
+add
+assert int16(45)
+push int8(8)
+push int16(2)
+div
+assert int16(4)
+push int16(42)
+push int32(3)
+add
+assert int32(45)
+push int16(8)
+push int32(2)
+div
+assert int32(4)
+push int32(42)
+push float(3)
+add
+assert float(45)
+push int32(8)
+push float(2)
+div
+assert float(4)
+push float(42)
+push double(3)
+add
+assert double(45)
+push float(8)
+push double(2)
+div
+assert double(4)

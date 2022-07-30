@@ -1,0 +1,26 @@
+push int32(-30)
+push int32(-20)
+add
+dump
+clear
+push int32(-30)
+push int32(-20)
+sub
+dump
+clear
+push int32(-30)
+push int32(-20)
+mul
+dump
+clear
+push int32(-30)
+push int32(-20)
+div
+dump
+clear
+push int32(-30)
+push int32(-20)
+mod
+dump
+clear
+exit

@@ -1,0 +1,13 @@
+*.slo
+*.lo
+*.o
+*.obj
+a.out
+
+*~
+\#*\#
+.\#*
+.vscode/
+abstractVM
+test.avm
+.tests_files/

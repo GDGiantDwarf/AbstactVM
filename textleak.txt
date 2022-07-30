@@ -1,0 +1,24 @@
+push float(12)
+push int8(12)
+div
+assert float(1.0)
+push float(12)
+push double(3.14)
+store int8(2)
+push float(4.2323)
+; load float(2.3)
+push int8(65)
+print
+dump
+
+push int32(24)
+push float(12)
+div
+assert float(2)
+push float(12)
+push double(3.14)
+store int8(2)
+push float(4.2323)
+; load float(2.3)
+; print
+exit

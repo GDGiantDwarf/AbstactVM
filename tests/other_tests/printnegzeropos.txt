@@ -1,0 +1,4 @@
+push int8(42)
+print
+push int8(0)
+print

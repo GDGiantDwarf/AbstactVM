@@ -1,0 +1,6 @@
+push int8(42)
+push int8(2)
+add
+hui int(3)
+exit
+;;

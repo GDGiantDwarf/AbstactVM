@@ -1,0 +1,7 @@
+push float(3.14159265)
+push int8(1)
+add
+dump
+clear
+dump
+exit
